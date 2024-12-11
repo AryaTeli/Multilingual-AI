@@ -5,3 +5,7 @@ gTTS
 google-generativeai
 python-dotenv
 streamlit
+pyaudio
+pipwin
+docopt
+pyjsparser
